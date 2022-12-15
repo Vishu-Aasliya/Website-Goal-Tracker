@@ -1,0 +1,15 @@
+.listBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.listItem{
+    background-color: maroon;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 600px;
+    color: white;
+    padding-left: 10px;
+}
